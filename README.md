@@ -1,9 +1,10 @@
 Computer Vision Project — 6th Semester
-
 Field	Detail
-Submitted By	Shoaib Mustafa (F23BDOCS1E02071),Noor Elahi (F23BDOCS1E02069),Taimoor Azhar (F23BDOCS1E02082)
-Submitted To	Sir Abdullah Soomro
-Section	2-E
+Submitted By::	Shoaib Mustafa (F23BDOCS1E02071)
+                Noor Elahi (F23BDOCS1E02069)   
+                Taimoor Azhar (F23BDOCS1E02082)
+Submitted To::	Sir Abdullah Soomro
+Section::	2-E
 # 🚗 License Plate Recognition (LPR) System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
